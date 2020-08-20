@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fitness-tracker-eb496": {
+      "hosting": {
+        "fitness-Tracker": [
+          "fitness-tracker-eb496"
+        ]
+      }
+    }
+  }
+}
