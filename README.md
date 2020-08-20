@@ -29,3 +29,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## App Interface
 
 <img src="images/screenshot_1.png">
+<img src="images/screenshot_2.png">
+
